@@ -1,2 +1,2 @@
-# AI-secondary-School
-&lt;&lt;人工智能基础>> (初中版)
+# AI-Secondary-School
+### <<人工智能基础>> (初中版)
